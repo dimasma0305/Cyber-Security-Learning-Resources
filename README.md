@@ -1,4 +1,4 @@
-# Cyber ​​Security Learning Path
+# Cyber Security Learning Path
 ## Learn to Use Linux
 - Choose the distribution you want to use
 - https://bitlabs.id/blog/distro-linux-terbaik/
