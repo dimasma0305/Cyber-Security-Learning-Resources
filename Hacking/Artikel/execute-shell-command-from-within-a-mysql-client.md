@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/929342/execute-shell-command-from-within-a-mysql-client

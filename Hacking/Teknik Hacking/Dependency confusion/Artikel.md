@@ -1,0 +1,1 @@
+https://dev.to/sumstrm/automatically-protect-your-supply-chain-from-dependency-confusion-2n35

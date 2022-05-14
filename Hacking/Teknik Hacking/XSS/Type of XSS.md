@@ -1,0 +1,1 @@
+Stored XSS, also known as persistent XSS, is the more damaging of the two. It occurs when a malicious script is injected directly into a vulnerable web application. **Reflected XSS involves the reflecting of a malicious script off of a web application, onto a user's browser**.

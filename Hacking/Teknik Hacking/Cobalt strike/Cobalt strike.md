@@ -1,0 +1,1 @@
+Cobalt Strike is **a commercial adversary simulation software** that is marketed to red teams but is also stolen and actively used by a wide range of threat actors from ransomware operators to espionage-focused Advanced Persistent Threats (APTs)

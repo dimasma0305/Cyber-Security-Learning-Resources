@@ -1,0 +1,2 @@
+# Fork Bomb
+Dalam komputasi, _**fork bomb**_, (juga disebut virus **kelinci** atau **wabbit**) adalah denial-of-service attack dimana proses terus bereplikasi sendiri untuk menguras sumber daya sistem yang tersedia, memperlambat atau membekukan sistem karena kekurangan sumber daya.

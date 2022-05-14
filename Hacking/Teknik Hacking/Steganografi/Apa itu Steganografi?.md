@@ -1,0 +1,5 @@
+# Apa itu Steganografi?
+**Steganografi** adalah seni dan ilmu menulis [pesan](https://id.wikipedia.org/wiki/Pesan "Pesan") tersembunyi atau menyembunyikan pesan dengan suatu cara sehingga selain si pengirim dan si penerima, tidak ada seorangpun yang mengetahui atau menyadari bahwa ada suatu pesan [rahasia](https://id.wikipedia.org/wiki/Rahasia "Rahasia"). Sebaliknya, [kriptografi](https://id.wikipedia.org/wiki/Kriptografi "Kriptografi") menyamarkan arti dari suatu pesan, tapi tidak menyembunyikan bahwa ada suatu pesan. Kata "steganografi" berasal dari [bahasa Yunani](https://id.wikipedia.org/wiki/Bahasa_Yunani "Bahasa Yunani") _steganos_, yang artinya “tersembunyi atau terselubung”, dan _graphein_, “menulis”.[](https://id.wikipedia.org/wiki/Steganografi#cite_note-1)
+
+## Sumber
+https://id.wikipedia.org/wiki/Steganografi
