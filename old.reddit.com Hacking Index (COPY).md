@@ -56,7 +56,7 @@ Please don't post illegal stuffs. Bans are handed out at moderator discretion.
 
 > **How do I start hacking?**
 
-Hacking is an incredibly broad topic. There's is no single "hacking" action. You will need to describe **what** you want to learn. [This post will help you define hacking.](http://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_to_ask_questions_about_hacking/) From there, check out resources related to the areas of hacking you are interested in.
+Hacking is an incredibly broad topic.There's is no single "hacking" action. You will need to describe **what** you want to learn. [This post will help you define hacking.](http://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_to_ask_questions_about_hacking/) From there, check out resources related to the areas of hacking you are interested in.
 
 Past Threads:
 
