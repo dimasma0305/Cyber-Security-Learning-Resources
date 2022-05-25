@@ -6,3 +6,4 @@ relative_links:
   enabled: true
   collections: true
 
+permalink: pretty
