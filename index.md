@@ -1,6 +1,6 @@
 ## Getting Started
 1. [ROADMAP](ROADMAP.md)
-2. [old.reddit.com Hacking Index (COPY)](old.reddit.com%20Hacking%20Index%20(COPY).md)
-3. [Youtube Channel Menarik](Youtube%20Channel%20Menarik.md)
-4. [Top 5 Capture The Flag untuk Memulai Ethical Hacking](Top%205%20Capture%20The%20Flag%20untuk%20Memulai%20Ethical%20Hacking.md)
-5. [Forum - Forum (indonesia)](Forum%20-%20Forum%20(Indonesia).md)
+2. [old_reddit_com_Hacking_Index_(COPY)](old_reddit_com_Hacking_Index_(COPY).md)
+3. [Youtube_Channel_Menarik](Youtube_Channel_Menarik.md)
+4. [Top_5_Capture_The_Flag_untuk_Memulai_Ethical_Hacking](Top_5_Capture_The_Flag_untuk_Memulai_Ethical_Hacking.md)
+5. [Forum - Forum (indonesia)](Forum_-_Forum_(Indonesia).md)
