@@ -1,4 +1,4 @@
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: dracula/\gh-pages
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
@@ -6,4 +6,5 @@ relative_links:
   enabled: true
   collections: true
 
-title: [Dimas0305]
+title: [Dimasma0305]
+show_downloads: ["true"]
