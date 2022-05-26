@@ -1,4 +1,4 @@
-remote_theme: abhinavs/moonwalk
+remote_theme: rokhimin/jekyll-darkness
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
