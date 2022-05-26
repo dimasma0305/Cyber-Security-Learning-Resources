@@ -35,7 +35,6 @@ Guides and tutorials are welcome here as long as they are suitably complex and m
 
 Please don't post illegal stuffs. Bans are handed out at moderator discretion.
 
----
 
 # Rules
 
@@ -50,7 +49,6 @@ Please don't post illegal stuffs. Bans are handed out at moderator discretion.
 9.  We are not tech support, these posts should be kept on [/r/techsupport](https://old.reddit.com/r/techsupport).
 10.  Don't be a dick. Play nice, support each other and encourage learning.
 
----
 
 # FAQ
 
@@ -85,7 +83,7 @@ Again, [narrow down](http://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_t
 
 [http://www.helpivebeenhacked.com/](http://www.helpivebeenhacked.com/)
 
----
+
 
 # Resources
 
@@ -101,7 +99,6 @@ Again, [narrow down](http://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_t
 -   [https://blog.rapid7.com/tag/metasploit/](https://blog.rapid7.com/tag/metasploit/)
 -   [https://www.hackaday.com](https://www.hackaday.com/)
 
----
 
 ## Conferences
 
@@ -124,7 +121,6 @@ Again, [narrow down](http://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_t
 -   [THOTCON](https://www.thotcon.org/) - Chicago
 -   [Wild West Hackin’ Fest](https://www.wildwesthackinfest.com/) - San Diego
 
----
 
 ## InfoSec Twitters
 
@@ -155,7 +151,6 @@ Again, [narrow down](http://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_t
 -   [https://twitter.com/TinkerSec](https://twitter.com/TinkerSec)
 -   [https://twitter.com/ihackbanme](https://twitter.com/ihackbanme)
 
----
 
 ## History
 
@@ -282,7 +277,6 @@ Again, [narrow down](http://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_t
 -   [Cyberpunk 2077 Mix (Best of Cyber Electro)](https://www.youtube.com/watch?v=Z134FsNEG6Q) - length - 2:47:56
 -   ['Back To The 80's' | Best of Synthwave And Retro Electro Music Mix for 2 Hours | Vol. 9](https://www.youtube.com/watch?v=fzK79PgKITI) - length - 2:01:56
 
----
 
 ## Movies & TV
 
@@ -310,13 +304,11 @@ Anime
 -   [Blame!](https://www.youtube.com/watch?v=hwy806RC2-Q)
 -   [Ghost In The Shell](https://www.youtube.com/watch?v=p2MEaROKjaE)
 
----
 
 ## Tools
 
 -   [nmap](https://nmap.org/) - Port Scanner & Network Exploration Tool
 
----
 
 ## VPNs
 
@@ -331,7 +323,6 @@ Paid
 
 -   [Mullvad](https://mullvad.net/) - Mullvad is an open-source commercial VPN service based in Sweden.
 
----
 
 ## XSS
 
@@ -363,7 +354,6 @@ Popular forums in the hacking scene.
 -   FuckAV (RU)
 -   Korovka (RU)
 
----
 
 ## CTFs
 
@@ -395,7 +385,6 @@ Want to talk about CTFs or techniques? Check out [/r/securityCTF](https://old.r
 
 Want to make your own CTF? Check out [ctfd](https://ctfd.io/).
 
----
 
 ## Education
 
@@ -449,7 +438,6 @@ Professor Messer Videos
 -   [DEF CON 25 - Roger Dingledine - Next Generation Tor Onion Services](https://www.youtube.com/watch?v=Di7qAVidy1Y&t=1s)
 -   [DEF CON 26 - smea - Jailbreaking the 3DS Through 7 Years of Hardening](https://www.youtube.com/watch?v=WNUsKx2euFw)
 
----
 
 ## Reading
 
@@ -465,7 +453,6 @@ Professor Messer Videos
 -   [Security Now](https://www.grc.com/securitynow.htm) - TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security. Sometimes we'll discuss something that just happened. Sometimes we'll talk about long-standing problems, concerns, or solutions. Either way, every week we endeavor to produce something interesting and important for every personal computer user.
 -   [Modem Mischief Podcast](https://www.modemmischief.com/) - Modem Mischief is a true cybercrime podcast. Created, produced and hosted by Keith Korneluk.
 
----
 
 ## Bug Bounty Programs
 
@@ -482,14 +469,12 @@ Get paid to discover vulnerabilities and security issues.
 -   [HP](http://hp.com/go/printersthatprotect)
 -   [Mozilla](https://www.mozilla.org/en-US/security/bug-bounty/)
 
----
 
 ## Law
 
 -   [Computer Fraud and Abuse Act (CFAA) - US](https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act) - is a United States cybersecurity bill that was enacted in 1986 as an amendment to existing computer fraud law (18 U.S.C. § 1030), which had been included in the Comprehensive Crime Control Act of 1984. The law prohibits accessing a computer without authorization, or in excess of authorization. This is what the FBI is gunna use to bust your ass (or a conspiracy or wire fraud charge) if you fuck around and get caught. Read up about it. If you are busted, the FBI may pressure you into becoming a Confidential Human Source aka a snitch. Do not do it. Lawyer up!
 -   [Computer Misuse Act 1990 - UK](https://en.wikipedia.org/wiki/Computer_Misuse_Act_1990) - 1990 is a key piece of legislation that criminalizes the act of accessing or modifying data stored on a computer system without appropriate consent or permission.
 
----
 
 ## OSINT
 
@@ -506,7 +491,6 @@ Get paid to discover vulnerabilities and security issues.
 -   [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
 -   [chatter](https://github.com/visualbasic6/chatter) - chatter is a proof of concept osint monitoring telegram bot for windows (server, ideally) that monitors tweet content, reddit submission titles and 4chan post content for specific keywords - as well as phrases in quotation marks. it feeds content that is discovered to your telegram group in near real-time depending on your configuration. this is an early beta release with limited features.
 
----
 
 ## Scanning
 
@@ -515,7 +499,6 @@ Get paid to discover vulnerabilities and security issues.
 -   [dirmap](https://github.com/H4ckForJob/dirmap) - An advanced web directory & file scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。
 -   [dirhunt](https://github.com/Nekmo/dirhunt) - Dirhunt is a web crawler optimize for search and analyze directories. This tool can find interesting things if the server has the "index of" mode enabled. Dirhunt is also useful if the directory listing is not enabled. It detects directories with false 404 errors, directories where an empty index file has been created to hide things and much more.
 
----
 
 ## Cracking
 
@@ -579,20 +562,17 @@ hashcat
 -   [Hashcat Cheatsheet for OSCP](https://github.com/frizb/Hashcat-Cheatsheet)
 -   [hashcat - Howtos, Videos, Papers, Articles, etc. in the wild](https://hashcat.net/wiki/#howtos_videos_papers_articles_etc_in_the_wild)
 
----
 
 ## Google Dorks
 
 -   [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/)
 
----
 
 ## SQLi
 
 -   [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 -   SQLi Dumper
 
----
 
 ## Useful Github Resources
 
@@ -684,7 +664,6 @@ hashcat
 -   [Lazy script](https://github.com/arismelachroinos/lscript)
 -   [Sonar.js](https://github.com/mandatoryprogrammer/sonar.js) - A framework for identifying and launching exploits against internal network hosts. Works via WebRTC IP enumeration, WebSocket host scanning, and external resource fingerprinting.
 
----
 
 ## Organizations
 
@@ -692,7 +671,6 @@ hashcat
 -   [Electronic Frontier Foundation](https://www.eff.org/)
 -   [TOOOL - The Open Organisation Of Lockpickers](https://toool.us/)
 
----
 
 ## Operating Systems
 
@@ -727,7 +705,6 @@ hashcat
 -   [Mint](https://linuxmint.com/) - Linux Mint is an elegant, easy to use, up to date and comfortable GNU/Linux desktop distribution.
 -   [Rasberrian](https://www.raspbian.org/) - Raspbian is a free operating system based on Debian optimized for the Raspberry Pi hardware.
 
----
 
 ## RSS Feeds
 
