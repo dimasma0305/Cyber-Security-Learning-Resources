@@ -1,4 +1,4 @@
-# old.reddit.com Hacking Index (COPY)
+# Hacking Index (COPY)
 
 Original link: https://old.reddit.com/r/hacking/wiki/index
 
