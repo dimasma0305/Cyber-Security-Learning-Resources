@@ -1,4 +1,4 @@
-remote_theme: sharadcodes/jekyll-theme-dark-reader
+remote_theme: jasonlong/cayman-theme
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
