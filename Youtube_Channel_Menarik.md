@@ -14,5 +14,5 @@
 - [Onno Center](https://www.youtube.com/c/OnnoCenter) //dosen IT network dan cyber security
 - [savebeat](https://www.youtube.com/c/savabeat) //etchical hacker
 - [Doddy Ferdiansyah](https://www.youtube.com/c/DoddyFerdiansyah) //etchical hacker
-- [Kelas Terbika](https://www.youtube.com/c/KelasTerbuka) //dosen IT programing (e.g. python)
+- [Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka) //dosen IT programing (e.g. python)
 - [Web Programing UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS) //dosen IT web programing
