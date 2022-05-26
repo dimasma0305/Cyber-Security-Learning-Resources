@@ -257,7 +257,6 @@ Again, [narrow down](http://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_t
 -   [Goatse Security](https://en.wikipedia.org/wiki/Goatse_Security)
 -   [GNAA](https://en.wikipedia.org/wiki/Gay_Nigger_Association_of_America)
 
----
 
 ## Music
 
@@ -331,7 +330,6 @@ Paid
 -   [XSS Vectors Cheat Sheet](https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45)
 -   [/r/xss](https://old.reddit.com/r/xss)
 
----
 
 ## Forums
 
@@ -444,7 +442,7 @@ Professor Messer Videos
 -   [2600](https://www.2600.com/)
 -   [Phrack](http://phrack.org/index.html)
 
----
+
 
 ## Podcasts
 
