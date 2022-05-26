@@ -1,7 +1,7 @@
-remote_theme: nicolas-van/bootstrap-4-github-pages
+remote_theme: Jekyll-Garden/jekyll-garden.github.io
 plugins:
   - jekyll-relative-links
-#  - jekyll-remote-theme
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
