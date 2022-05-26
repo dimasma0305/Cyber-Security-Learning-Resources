@@ -1,4 +1,4 @@
-remote_theme: sharadcodes/jekyll-theme-dark-reader
+remote_theme: dimasma0305/jekyll-theme-dark-reader
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
