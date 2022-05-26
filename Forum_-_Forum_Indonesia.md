@@ -4,5 +4,5 @@
 
 ### Telegram
 - [IT Networking](https://t.me/IT_Networking)
-- [CTF BERSAMA](https://t.me/ctfbersama)
+- [CTF BERSAMA](https://t.me/ctfbersam)
 - [Orang Siber Indonesia](https://t.me/orangsiber)
