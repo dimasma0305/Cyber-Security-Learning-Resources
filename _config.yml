@@ -1,4 +1,4 @@
-remote_theme: rokhimin/jekyll-darkness
+remote_theme: son-link/jekyll-simple-dark
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
