@@ -727,6 +727,62 @@ hashcat
 
 ## RSS Feeds
 
-#### Technical Blogs
 
--   nedwill’s security blog - [https://nedwill.github.io/blog/feed.xml](https://nedwill.github.io/blog/feed.xml) ([https://nedwill.github.io/blog/](https://nedwill.github.io/blog/))
+#### Less Technical Blogs
+
+-   anti-virus rants - [http://feeds.feedburner.com/Anti-virusRants](http://feeds.feedburner.com/Anti-virusRants) ([http://anti-virus-rants.blogspot.com/](http://anti-virus-rants.blogspot.com/))
+-   Secureworks Blog - [https://www.secureworks.com/rss?feed=blog](https://www.secureworks.com/rss?feed=blog) ([https://www.secureworks.com/blog](https://www.secureworks.com/blog))
+-   Microsoft Security Response Center - [https://msrc-blog.microsoft.com/feed/](https://msrc-blog.microsoft.com/feed/) ([https://msrc-blog.microsoft.com](https://msrc-blog.microsoft.com/))
+-   ColbaltStrike Blog - [https://blog.cobaltstrike.com/feed/](https://blog.cobaltstrike.com/feed/) ([https://blog.cobaltstrike.com](https://blog.cobaltstrike.com/))
+-   CERT Blogs - [https://insights.sei.cmu.edu/cert/atom.xml](https://insights.sei.cmu.edu/cert/atom.xml) ([https://insights.sei.cmu.edu/cert/](https://insights.sei.cmu.edu/cert/))
+-   xorl %eax, %eax - [https://xorl.wordpress.com/feed/](https://xorl.wordpress.com/feed/) ([https://xorl.wordpress.com](https://xorl.wordpress.com/))
+-   TRUESEC Blog - [https://blog.truesec.com/feed/](https://blog.truesec.com/feed/) ([https://blog.truesec.com](https://blog.truesec.com/))
+-   The Daily Swig - [https://portswigger.net/daily-swig/rss](https://portswigger.net/daily-swig/rss) ([https://portswigger.net/daily-swig](https://portswigger.net/daily-swig))
+-   (IN)SECURE Magazine Notifications RSS - [http://feeds.feedburner.com/insecuremagazine](http://feeds.feedburner.com/insecuremagazine) ([http://www.insecuremag.com](http://www.insecuremag.com/))
+-   Unit42 - [http://feeds.feedburner.com/Unit42](http://feeds.feedburner.com/Unit42) ([https://unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/))
+-   r2c website - [https://r2c.dev/rss.xml](https://r2c.dev/rss.xml) ([https://r2c.dev](https://r2c.dev/))
+-   BREAKDEV - [https://feeds.feedburner.com/breakdev](https://feeds.feedburner.com/breakdev) ([https://breakdev.org/](https://breakdev.org/))
+-   Deeplinks - [https://www.eff.org/rss/updates.xml](https://www.eff.org/rss/updates.xml) ([https://www.eff.org/rss/updates.xml](https://www.eff.org/rss/updates.xml))
+-   SANS Internet Storm Center, InfoCON: green - [https://isc.sans.edu/rssfeed_full.xml](https://isc.sans.edu/rssfeed_full.xml) ([https://isc.sans.edu](https://isc.sans.edu/))
+-   NotSoSecure - [https://notsosecure.com/feed/](https://notsosecure.com/feed/) ([https://notsosecure.com](https://notsosecure.com/))
+-   TrustedSec - [https://www.trustedsec.com/feed/](https://www.trustedsec.com/feed/) ([https://www.trustedsec.com](https://www.trustedsec.com/))
+-   Microsoft Security - [https://www.microsoft.com/security/blog/feed/](https://www.microsoft.com/security/blog/feed/) ([https://www.microsoft.com/security/blog](https://www.microsoft.com/security/blog))
+-   Zimperium Mobile Security Blog - [https://blog.zimperium.com/feed/](https://blog.zimperium.com/feed/) ([https://blog.zimperium.com](https://blog.zimperium.com/))
+-   Bugcrowd - [https://www.bugcrowd.com/feed/](https://www.bugcrowd.com/feed/) ([https://www.bugcrowd.com](https://www.bugcrowd.com/))
+-   codeblog - [https://outflux.net/blog/feed/](https://outflux.net/blog/feed/) ([https://outflux.net/blog](https://outflux.net/blog))
+-   Google Online Security Blog - [https://security.googleblog.com/feeds/posts/default](https://security.googleblog.com/feeds/posts/default) ([http://security.googleblog.com/](http://security.googleblog.com/))
+-   Mozilla Security Blog - [https://blog.mozilla.org/security/feed/](https://blog.mozilla.org/security/feed/) ([https://blog.mozilla.org/security](https://blog.mozilla.org/security))
+-   HackerOne - [https://www.hackerone.com/blog.rss](https://www.hackerone.com/blog.rss) ([https://www.hackerone.com/](https://www.hackerone.com/))
+-   Rendition Infosec - [https://blog.renditioninfosec.com/feed/](https://blog.renditioninfosec.com/feed/) ([https://blog.renditioninfosec.com](https://blog.renditioninfosec.com/))
+-   Check Point Research - [https://research.checkpoint.com/feed/](https://research.checkpoint.com/feed/) ([https://research.checkpoint.com](https://research.checkpoint.com/))
+-   Offensive Security - [https://www.offensive-security.com/feed/](https://www.offensive-security.com/feed/) ([https://www.offensive-security.com](https://www.offensive-security.com/))
+-   Rapid7 Blog - [https://blog.rapid7.com/rss/](https://blog.rapid7.com/rss/) ([https://blog.rapid7.com/](https://blog.rapid7.com/))
+
+#### Social
+
+-   newest submissions : ExploitDev - [https://www.reddit.com/r/exploitdev/new.rss](https://www.reddit.com/r/exploitdev/new.rss) ([https://www.reddit.com/r/exploitdev/new](https://www.reddit.com/r/exploitdev/new))
+-   disclose.io - Latest topics - [https://community.disclose.io/latest.rss](https://community.disclose.io/latest.rss) ([https://community.disclose.io/latest](https://community.disclose.io/latest))
+-   newest submissions : netsec - [https://www.reddit.com/r/netsec/new.rss](https://www.reddit.com/r/netsec/new.rss) ([https://www.reddit.com/r/netsec/new](https://www.reddit.com/r/netsec/new))
+-   newest submissions : websecurityresearch - [https://www.reddit.com/r/websecurityresearch/new.rss](https://www.reddit.com/r/websecurityresearch/new.rss) ([https://www.reddit.com/r/websecurityresearch/new](https://www.reddit.com/r/websecurityresearch/new))
+-   newest submissions : ReverseEngineering - [https://www.reddit.com/r/ReverseEngineering/new.rss](https://www.reddit.com/r/ReverseEngineering/new.rss) ([https://www.reddit.com/r/ReverseEngineering/new](https://www.reddit.com/r/ReverseEngineering/new))
+-   newest submissions : lowlevel - [https://www.reddit.com/r/lowlevel/new.rss](https://www.reddit.com/r/lowlevel/new.rss) ([https://www.reddit.com/r/lowlevel/new](https://www.reddit.com/r/lowlevel/new))
+
+#### News
+
+-   Wired - Security Latest - [https://www.wired.com/feed/category/security/latest/rss](https://www.wired.com/feed/category/security/latest/rss) ([https://www.wired.com/category/security/latest](https://www.wired.com/category/security/latest))
+-   News ≈ Packet Storm - [https://rss.packetstormsecurity.com/news/](https://rss.packetstormsecurity.com/news/) ([https://packetstormsecurity.com/](https://packetstormsecurity.com/))
+-   Naked Security - [https://nakedsecurity.sophos.com/feed](https://nakedsecurity.sophos.com/feed) ([https://nakedsecurity.sophos.com](https://nakedsecurity.sophos.com/))
+-   The Hacker News - [http://www.thehackernews.com/feeds/posts/default](http://www.thehackernews.com/feeds/posts/default) ([https://thehackernews.com/](https://thehackernews.com/))
+-   ZDNet - Security - [http://www.zdnet.com/topic/security/rss.xml](http://www.zdnet.com/topic/security/rss.xml) ([https://www.zdnet.com/](https://www.zdnet.com/))
+-   Ars Technica - [http://feeds.arstechnica.com/arstechnica/index/](http://feeds.arstechnica.com/arstechnica/index/) ([https://arstechnica.com](https://arstechnica.com/))
+-   Threatpost | The first stop for security news - [http://threatpost.com/feed/](http://threatpost.com/feed/) ([https://threatpost.com](https://threatpost.com/))
+-   Krebs on Security - [http://krebsonsecurity.com/feed/atom/](http://krebsonsecurity.com/feed/atom/) ([https://krebsonsecurity.com](https://krebsonsecurity.com/))
+-   Dark Reading: - [http://www.darkreading.com/rss_simple.asp](http://www.darkreading.com/rss_simple.asp) ([https://www.darkreading.com](https://www.darkreading.com/))
+-   BleepingComputer - [http://www.bleepingcomputer.com/feed/](http://www.bleepingcomputer.com/feed/) ([https://www.bleepingcomputer.com/](https://www.bleepingcomputer.com/))
+
+#### Research
+
+-   arXiv Crypto and Security Papers - [http://export.arxiv.org/api/query?search_query=cat:cs.CR&sortBy=submittedDate&sortOrder=descending&max_results=50](http://export.arxiv.org/api/query?search_query=cat:cs.CR&sortBy=submittedDate&sortOrder=descending&max_results=50)
+-   IACR Transactions on Cryptographic Hardware and Embedded Systems - [https://tches.iacr.org/index.php/TCHES/gateway/plugin/WebFeedGatewayPlugin/atom](https://tches.iacr.org/index.php/TCHES/gateway/plugin/WebFeedGatewayPlugin/atom) ([https://tches.iacr.org/index.php/TCHES](https://tches.iacr.org/index.php/TCHES))
+-   Full Disclosure - [http://seclists.org/rss/fulldisclosure.rss](http://seclists.org/rss/fulldisclosure.rss) ([http://seclists.org/#fulldisclosure](http://seclists.org/#fulldisclosure))
+-   Files ≈ Packet Storm - [https://rss.packetstormsecurity.com/files/](https://rss.packetstormsecurity.com/files/) ([https://packetstormsecurity.com/](https://packetstormsecurity.com/))
