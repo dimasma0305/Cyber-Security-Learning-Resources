@@ -845,3 +845,4 @@ _Credit to [u/PM_ME_YOUR_SHELLCODE](https://old.reddit.com/u/PM_ME_YOUR_SHELLCO
 -   IACR Transactions on Cryptographic Hardware and Embedded Systems - [https://tches.iacr.org/index.php/TCHES/gateway/plugin/WebFeedGatewayPlugin/atom](https://tches.iacr.org/index.php/TCHES/gateway/plugin/WebFeedGatewayPlugin/atom) ([https://tches.iacr.org/index.php/TCHES](https://tches.iacr.org/index.php/TCHES))
 -   Full Disclosure - [http://seclists.org/rss/fulldisclosure.rss](http://seclists.org/rss/fulldisclosure.rss) ([http://seclists.org/#fulldisclosure](http://seclists.org/#fulldisclosure))
 -   Files ≈ Packet Storm - [https://rss.packetstormsecurity.com/files/](https://rss.packetstormsecurity.com/files/) ([https://packetstormsecurity.com/](https://packetstormsecurity.com/))
+
