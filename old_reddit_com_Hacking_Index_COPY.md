@@ -278,8 +278,6 @@ Again, [narrow down](http://www.reddit.com/r/hacking/comments/2ru1oq/meta_how_t
 -   [Chillstep Music for Programming / Cyber / Coding](https://www.youtube.com/watch?v=M5QY2_8704o) - length 2:08:38
 -   [Crime City Nights - Cyberpunk / Dark Synthwave](https://www.youtube.com/watch?v=eEteJhp-Ezs) - length 2:05:23
 -   [Cyberpunk 2077 Mix (Best of Cyber Electro)](https://www.youtube.com/watch?v=Z134FsNEG6Q) - length - 2:47:56
--   ['Back To The 80's' | Best of Synthwave And Retro Electro Music Mix for 2 Hours | Vol. 9](https://www.youtube.com/watch?v=fzK79PgKITI) - length - 2:01:56
-
 ---
 
 ## Movies & TV
