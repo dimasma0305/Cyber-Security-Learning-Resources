@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minimal
+remote_theme: jekyll/minima
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
