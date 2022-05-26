@@ -1,4 +1,4 @@
-remote_theme: dracula/gh-pages
+remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
