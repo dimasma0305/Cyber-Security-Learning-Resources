@@ -1,4 +1,4 @@
-remote_theme: dracula/gh-pages
+remote_theme: nicolas-van/bootstrap-4-github-pages
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
