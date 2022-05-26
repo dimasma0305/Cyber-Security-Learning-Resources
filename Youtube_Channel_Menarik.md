@@ -4,6 +4,7 @@
 - [Live Overflow](https://www.youtube.com/c/LiveOverflow) //cyber security researcher
 - [John Hammond](https://www.youtube.com/c/JohnHammond010) //ethical hacker
 - [David Bombal](https://www.youtube.com/c/DavidBombal) //networking specialist
+- [Ippsec](https://www.youtube.com/c/ippsec) //HTB player and contributor 
 - [Network Chunk](https://www.youtube.com/c/NetworkChuck) //networking specialist
 - [Pwn Function](https://www.youtube.com/c/PwnFunction) //ethical hacker
 - [Computerphile](https://www.youtube.com/user/Computerphile) //computer science
