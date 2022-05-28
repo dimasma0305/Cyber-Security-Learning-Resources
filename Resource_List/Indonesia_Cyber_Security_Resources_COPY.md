@@ -47,6 +47,7 @@ ________________________________________________________________________________
 - [Mengidentifikasi Website/Aplikasi Berbahaya](https://www.youtube.com/watch?v=uD3PyA37d7E) - OVIS UI
 - [Cyber Security Awareness Internet Safety](https://youtu.be/lv2UeicNMMA) - MASTEL TV
 - [Cyber Security di Era Teknologi Informasi](https://www.youtube.com/watch?v=lFBQmoqvOJM) -  CeLOE Telkom University
+
 ------
 
 ## Peluang Project & Perjelanan Karir di Cyber Security
