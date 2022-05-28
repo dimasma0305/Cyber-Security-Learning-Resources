@@ -1,5 +1,5 @@
 # old.reddit.com Hacking Index (COPY)
-Original link: https://old.reddit.com/r/hacking/wiki/index
+Original link: [link](https://old.reddit.com/r/hacking/wiki/index)
 ```
                ,----------------,              ,---------,
           ,-----------------------,          ,"        ,"|
