@@ -8,3 +8,4 @@
 4. [Top_5_Capture_The_Flag_untuk_Memulai_Ethical_Hacking](Top_5_Capture_The_Flag_untuk_Memulai_Ethical_Hacking.md)
 5.  [Forum - Forum (indonesia)](Resource_List/Forum_-_Forum_Indonesia.md)
 6. [Link_Bermanfaat](Resource_List/Link_Bermanfaat.md)
+7. [Best_Legal_Vulnerable_Offline_Web_Application_for_Learning_Hacking](Best_Legal_Vulnerable_Offline_Web_Application_for_Learning_Hacking.md)
