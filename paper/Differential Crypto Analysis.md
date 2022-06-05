@@ -1,0 +1,2 @@
+- [A Tutorial on Linear and Differential Cryptanalysis](https://ioactive.com/wp-content/uploads/2015/07/ldc_tutorial.pdf)
+- [Differential Cryptanalysis of DES-like Cryptosystems ](https://link.springer.com/content/pdf/10.1007/BF00630563.pdf)
