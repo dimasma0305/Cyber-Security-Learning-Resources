@@ -8,3 +8,4 @@
 
 ## Other
 - https://drive.google.com/drive/folders/1_LnZcdILjS61s3dISpgGyYwwX7x3AFql?usp=sharing //Abdul Bari Data Structure and Algorithm
+- https://github.com/0xSojalSec/read-dark-web //dark web
