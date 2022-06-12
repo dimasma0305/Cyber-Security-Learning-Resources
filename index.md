@@ -1,1 +1,10 @@
-test
+# Index
+- [Starting Line](Resource_List/Starting_Line.md)
+- [Best_Legal_Vulnerable_Offline_Web_Application_for_Learning_Hacking](Resource_List/Best_Legal_Vulnerable_Offline_Web_Application_for_Learning_Hacking.md)
+- [Indonesia_Cyber_Security_Resources_COPY](Resource_List/Indonesia_Cyber_Security_Resources_COPY.md)
+- [old_reddit_com_Hacking_Index_COPY](Resource_List/old_reddit_com_Hacking_Index_COPY.md)
+- [Top_5_Capture_The_Flag_untuk_Memulai_Ethical_Hacking](Resource_List/Top_5_Capture_The_Flag_untuk_Memulai_Ethical_Hacking.md)
+- [Youtube_Channel_Menarik](Resource_List/Youtube_Channel_Menarik.md)
+- [Link_Bermanfaat](Resource_List/Link_Bermanfaat.md)
+- [Group_Link](Resource_List/Group_Link.md)
+- [Best_Capture_The_Flag_Platform](Resource_List/Best_Capture_The_Flag_Platform.md)
