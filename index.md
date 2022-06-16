@@ -1,5 +1,5 @@
 # Index
-- [Starting Line](Resource_List/Starting_Line.md)
+- [Starting Line](Starting_Line.md)
 - [Best_Legal_Vulnerable_Offline_Web_Application_for_Learning_Hacking](Resource_List/Best_Legal_Vulnerable_Offline_Web_Application_for_Learning_Hacking.md)
 - [Indonesia_Cyber_Security_Resources_COPY](Resource_List/Indonesia_Cyber_Security_Resources_COPY.md)
 - [old_reddit_com_Hacking_Index_COPY](Resource_List/old_reddit_com_Hacking_Index_COPY.md)
