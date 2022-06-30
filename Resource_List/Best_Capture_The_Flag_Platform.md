@@ -1,6 +1,0 @@
-## Bonus (Editor Choice)
-- [PicoCTF](https://picoctf.org/)
-- [CTFLearn](https://ctflearn.com/) 
-- [CTF.HackTheBox](https://ctf.hackthebox.com/)
-- [Google CTF](https://capturetheflag.withgoogle.com/)
-- [CTFR](https://rasyidmf.com/)

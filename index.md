@@ -1,11 +1,9 @@
 # Index
 - [Starting Line](Starting_Line.md)
 - [Cybersecurity Career Path](https://github.com/rezaduty/cybersecurity-career-path)
-- [Best Legal Vulnerable Offline Web Application for Learning Hacking](Resource_List/Best_Legal_Vulnerable_Offline_Web_Application_for_Learning_Hacking.md)
+- [List Link Bermanfaat](Resource_List/Link_Bermanfaat.md)
+- [Youtube Channel Menarik](Resource_List/Youtube_Channel_Menarik.md)
 - [Indonesia Cyber Security Resources COPY](Resource_List/Indonesia_Cyber_Security_Resources_COPY.md)
 - [old reddit com Hacking Index COPY](Resource_List/old_reddit_com_Hacking_Index_COPY.md)
 - [Top 5 Capture The Flag untuk Memulai Ethical Hacking](Resource_List/Top_5_Capture_The_Flag_untuk_Memulai_Ethical_Hacking.md)
-- [Youtube Channel Menarik](Resource_List/Youtube_Channel_Menarik.md)
-- [Link Bermanfaat](Resource_List/Link_Bermanfaat.md)
 - [Group Link](Resource_List/Group_Link.md)
-- [Best Capture The Flag Platform](Resource_List/Best_Capture_The_Flag_Platform.md)
