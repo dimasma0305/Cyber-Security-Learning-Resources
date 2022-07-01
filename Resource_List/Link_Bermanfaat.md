@@ -18,6 +18,7 @@
 - https://www.dcode.fr/cipher-identifier // chiper identifier
 - https://gtfobins.github.io/ // list Unix binary for privilage escalation
 - https://www.revshells.com/ // reverse shell generator
+- https://grep.app/ // git repos search
 
 ### Best Legal Vulnerable Offline Web Application for Learning Hacking.
 1. [bWAPP](http://www.itsecgames.com/)
