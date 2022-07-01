@@ -20,6 +20,8 @@
 - https://www.revshells.com/ // reverse shell generator
 - https://grep.app/ // git repos search
 
+## Git Repos
+- https://github.com/tomnomnom/hacks // A collection of hacks and one-off scripts
 ### Best Legal Vulnerable Offline Web Application for Learning Hacking.
 1. [bWAPP](http://www.itsecgames.com/)
 2. [DVWA](https://dvwa.co.uk/)
