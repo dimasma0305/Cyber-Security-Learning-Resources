@@ -8,7 +8,7 @@
 - [YT Assembly Course](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) // Assembly Youtube Course 
 - [Github Darkweb Articel](https://github.com/0xSojalSec/read-dark-web) // dark web articel
 - [hacktricks.xyz](https://book.hacktricks.xyz/welcome/readme) // hacking trick / searching common exploit
-
+- [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
 ## Online tools
 - [Advangle](http://advangle.com/) // search engine query maker
 - [CyberChef](https://gchq.github.io/CyberChef/) // strings converter
