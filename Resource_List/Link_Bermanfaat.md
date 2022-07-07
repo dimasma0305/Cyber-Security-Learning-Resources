@@ -1,8 +1,15 @@
 # Link Bermanfaat
-## Git Repos
+## Awesome Github Repos
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) // A collection of hacks and one-off scripts
 - [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) // Cyber security career path
-- [Github Darkweb Articel](https://github.com/0xSojalSec/read-dark-web) // dark web articel
+- [0xSojalSec/read-dark-web](https://github.com/0xSojalSec/read-dark-web) // dark web articel
+- [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) // A curated list of awesome OSCP resources
+
+## Learning Source
+- [begin.re](https://www.begin.re/) // Reverse Engineer For Beginer
+- [OWASP](https://hackxpert.com/API-testing.php) // OWASP top 10 api training page
+- [YT Assembly Course](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) // Assembly Youtube Course 
+- [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
 
 ### Best Legal Vulnerable Offline Web Application for Learning Hacking.
 - [bWAPP](http://www.itsecgames.com/)
@@ -73,13 +80,7 @@
 - [Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka) //dosen IT programing (e.g. python)
 - [Web Programing UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS) //dosen IT web programing
 
-## Articles and files
-
-### Learning Source
-- [begin.re](https://www.begin.re/) // Reverse Engineer For Beginer
-- [OWASP](https://hackxpert.com/API-testing.php) // OWASP top 10 api training page
-- [YT Assembly Course](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) // Assembly Youtube Course 
-- [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
+## Deep
 
 ### Cloud Drive
 - https://mega.nz/folder/XPRh2KrY#VFLZUATXCXJKKNtrDPAnLw
