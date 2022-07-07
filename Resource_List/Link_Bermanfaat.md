@@ -27,7 +27,7 @@
 - [Google CTF](https://capturetheflag.withgoogle.com/)
 - [CTFR](https://rasyidmf.com/)
 
-### Writeup Platform
+### Writeup
 - [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
 
 ## Tools
