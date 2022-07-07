@@ -10,20 +10,9 @@
 - [hacktricks.xyz](https://book.hacktricks.xyz/welcome/readme) // hacking trick / searching common exploit
 - [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
 
-## Online tools
-- [Advangle](http://advangle.com/) // search engine query maker
-- [CyberChef](https://gchq.github.io/CyberChef/) // strings converter
-- [ippsec.rocks](https://ippsec.rocks/) // search video for related topics and hack tricks, source youtube channel ippsec
-- [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
-- [dnsdumpster](https://dnsdumpster.com/) // dns recoon
-- [dcode.fr](https://www.dcode.fr/cipher-identifier) // chiper identifier
-- [gtfobins](https://gtfobins.github.io/) // list Unix binary for privilage escalation
-- [revshells.com](https://www.revshells.com/) // reverse shell generator
-- [grep.app](https://grep.app/) // git repos search
-
 ## Git Repos
-- [Github tomnomnom/hacks](https://github.com/tomnomnom/hacks) // A collection of hacks and one-off scripts
-
+- [tomnomnom/hacks](https://github.com/tomnomnom/hacks) // A collection of hacks and one-off scripts
+- [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) // Cyber security career path
 ### Best Legal Vulnerable Offline Web Application for Learning Hacking.
 - [bWAPP](http://www.itsecgames.com/)
 - [DVWA](https://dvwa.co.uk/)
@@ -37,3 +26,14 @@
 - [CTF.HackTheBox](https://ctf.hackthebox.com/)
 - [Google CTF](https://capturetheflag.withgoogle.com/)
 - [CTFR](https://rasyidmf.com/)
+
+## Online tools
+- [Advangle](http://advangle.com/) // search engine query maker
+- [CyberChef](https://gchq.github.io/CyberChef/) // strings converter
+- [ippsec.rocks](https://ippsec.rocks/) // search video for related topics and hack tricks, source youtube channel ippsec
+- [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
+- [dnsdumpster](https://dnsdumpster.com/) // dns recoon
+- [dcode.fr](https://www.dcode.fr/cipher-identifier) // chiper identifier
+- [gtfobins](https://gtfobins.github.io/) // list Unix binary for privilage escalation
+- [revshells.com](https://www.revshells.com/) // reverse shell generator
+- [grep.app](https://grep.app/) // git repos search
