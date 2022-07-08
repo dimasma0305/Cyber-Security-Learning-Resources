@@ -4,7 +4,8 @@
 - [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) // Cyber security career path
 - [0xSojalSec/read-dark-web](https://github.com/0xSojalSec/read-dark-web) // dark web articel
 - [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) // A curated list of awesome OSCP resources
-
+- [tanc7/hacking-books](https://github.com/tanc7/hacking-books) // a collection of pdfs related to hacking
+- [bcoles/kernel-exploits](https://github.com/bcoles/kernel-exploits) // kernel exploit list
 ## Learning Source
 - [begin.re](https://www.begin.re/) // Reverse Engineer For Beginer
 - [OWASP](https://hackxpert.com/API-testing.php) // OWASP top 10 api training page
