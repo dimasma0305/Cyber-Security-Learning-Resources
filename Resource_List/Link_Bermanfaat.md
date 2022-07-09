@@ -12,6 +12,8 @@
 - [OWASP](https://hackxpert.com/API-testing.php) // OWASP top 10 api training page
 - [YT Assembly Course](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) // Assembly Youtube Course 
 - [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
+- [PYTHON FOR HACKERS PT.1](https://drive.google.com/file/d/18zMHrfyiVFIL7KGHI3CTrTi3S5LorEi0/view) // Python for hacking
+- [reconshell.com](https://reconshell.com/) // Hacking blog and tutorial
 
 ### Best Legal Vulnerable Offline Web Application for Learning Hacking.
 - [bWAPP](http://www.itsecgames.com/)
@@ -23,7 +25,7 @@
 ## CTF Related
 
 ### CTF Platform
-- [PicoCTF](https://picoctf.org/)
+- [PicoCTF](https://picoctf.org/) 
 - [CTFLearn](https://ctflearn.com/) 
 - [CTF.HackTheBox](https://ctf.hackthebox.com/)
 - [Google CTF](https://capturetheflag.withgoogle.com/)
