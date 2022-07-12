@@ -1,22 +1,5 @@
 # Link Bermanfaat
 
-## Learning Source
-
-### Material
-- [OWASP](https://hackxpert.com/API-testing.php) // OWASP top 10 api training page
-- [PYTHON FOR HACKERS PT.1](https://drive.google.com/file/d/18zMHrfyiVFIL7KGHI3CTrTi3S5LorEi0/view) // Python for hacking
-- [reconshell.com](https://reconshell.com/) // Hacking blog and tutorial
-- [begin.re](https://www.begin.re/) // Reverse Engineer For Beginer
-- [YT Assembly Course](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) // Assembly Youtube Course 
-- [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
-
-### Best Legal Vulnerable Offline Web Application for Learning Hacking.
-- [bWAPP](http://www.itsecgames.com/)
-- [DVWA](https://dvwa.co.uk/)
-- [OWASP WebGoat](https://owasp.org/www-project-webgoat/)
-- [cyclone transfers](https://github.com/thedeadrobots/bwa_cyclone_transfers)
-- [Owasp Bricks](https://sechow.com/bricks/)
-
 ## CTF Related
 
 ### CTF Platform
@@ -28,21 +11,6 @@
 
 ### Writeup Related
 - [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
-
-## Tools
-
-### Online tools
-- [CyberChef](https://gchq.github.io/CyberChef/) // strings converter
-- [dnsdumpster](https://dnsdumpster.com/) // dns recoon
-- [dcode.fr](https://www.dcode.fr/cipher-identifier) // chiper identifier
-- [revshells.com](https://www.revshells.com/) // reverse shell generator
-
-### Search tools
-- [hacktricks.xyz](https://book.hacktricks.xyz/welcome/readme) // hacking trick / searching common exploit
-- [gtfobins](https://gtfobins.github.io/) // list Unix binary for privilage escalation
-- [grep.app](https://grep.app/) // git repos search
-- [ippsec.rocks](https://ippsec.rocks/) // search video for related topics and hack tricks, source youtube channel ippsec
-- [Advangle](http://advangle.com/) // search engine query maker
 
 ## Group link
 
@@ -88,6 +56,43 @@
 - [bcoles/kernel-exploits](https://github.com/bcoles/kernel-exploits) // kernel exploit list
 - [JoyGhoshs/findbb/](https://github.com/JoyGhoshs/findbb/) // Check if domain has bug bounty program or not
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) //collection of multiple types of lists used during security assessments
+
+## Learning Source
+
+### Material
+- [OWASP](https://hackxpert.com/API-testing.php) // OWASP top 10 api training page
+- [PYTHON FOR HACKERS PT.1](https://drive.google.com/file/d/18zMHrfyiVFIL7KGHI3CTrTi3S5LorEi0/view) // Python for hacking
+- [reconshell.com](https://reconshell.com/) // Hacking blog and tutorial
+- [begin.re](https://www.begin.re/) // Reverse Engineer For Beginer
+- [YT Assembly Course](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) // Assembly Youtube Course 
+- [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
+
+### Best Legal Vulnerable Offline Web Application for Learning Hacking.
+- [bWAPP](http://www.itsecgames.com/)
+- [DVWA](https://dvwa.co.uk/)
+- [OWASP WebGoat](https://owasp.org/www-project-webgoat/)
+- [cyclone transfers](https://github.com/thedeadrobots/bwa_cyclone_transfers)
+- [Owasp Bricks](https://sechow.com/bricks/)
+
+## Tools
+
+### Operating System
+- [Parrot OS](https://www.parrotsec.org/) 
+- [Black Arch](https://www.blackarch.org/) 
+- [Kali Linux](https://www.kali.org/) 
+
+### Online tools
+- [CyberChef](https://gchq.github.io/CyberChef/) // strings converter
+- [dnsdumpster](https://dnsdumpster.com/) // dns recoon
+- [dcode.fr](https://www.dcode.fr/cipher-identifier) // chiper identifier
+- [revshells.com](https://www.revshells.com/) // reverse shell generator
+
+### Search tools
+- [hacktricks.xyz](https://book.hacktricks.xyz/welcome/readme) // hacking trick / searching common exploit
+- [gtfobins](https://gtfobins.github.io/) // list Unix binary for privilage escalation
+- [grep.app](https://grep.app/) // git repos search
+- [ippsec.rocks](https://ippsec.rocks/) // search video for related topics and hack tricks, source youtube channel ippsec
+- [Advangle](http://advangle.com/) // search engine query maker
 
 ## Deep
 
