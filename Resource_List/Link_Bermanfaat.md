@@ -1,20 +1,14 @@
 # Link Bermanfaat
-## Awesome Github Repos
-- [tomnomnom/hacks](https://github.com/tomnomnom/hacks) // A collection of hacks and one-off scripts
-- [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) // Cyber security career path
-- [0xSojalSec/read-dark-web](https://github.com/0xSojalSec/read-dark-web) // dark web articel
-- [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) // A curated list of awesome OSCP resources
-- [tanc7/hacking-books](https://github.com/tanc7/hacking-books) // a collection of pdfs related to hacking
-- [bcoles/kernel-exploits](https://github.com/bcoles/kernel-exploits) // kernel exploit list
-- [JoyGhoshs/findbb/](https://github.com/JoyGhoshs/findbb/) // Check if domain has bug bounty program or not
 
 ## Learning Source
-- [begin.re](https://www.begin.re/) // Reverse Engineer For Beginer
+
+### Material
 - [OWASP](https://hackxpert.com/API-testing.php) // OWASP top 10 api training page
-- [YT Assembly Course](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) // Assembly Youtube Course 
-- [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
 - [PYTHON FOR HACKERS PT.1](https://drive.google.com/file/d/18zMHrfyiVFIL7KGHI3CTrTi3S5LorEi0/view) // Python for hacking
 - [reconshell.com](https://reconshell.com/) // Hacking blog and tutorial
+- [begin.re](https://www.begin.re/) // Reverse Engineer For Beginer
+- [YT Assembly Course](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) // Assembly Youtube Course 
+- [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
 
 ### Best Legal Vulnerable Offline Web Application for Learning Hacking.
 - [bWAPP](http://www.itsecgames.com/)
@@ -32,7 +26,7 @@
 - [Google CTF](https://capturetheflag.withgoogle.com/)
 - [CTFR](https://rasyidmf.com/)
 
-### Writeup
+### Writeup Related
 - [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
 
 ## Tools
@@ -54,7 +48,6 @@
 
 ### Facebook
 - [Linux Indonesia](https://web.facebook.com/groups/linuxidn/) // forum berdiskusi/bertanya tentang linux
-- [Linuxer Desktop Art](https://web.facebook.com/groups/linuxart/) // forum belajar/diskusi cara memperindah linux
 
 ### Telegram
 - [MalingIT](https://t.me/MalingIT)  // berbagi buku pentesting/hacking
@@ -65,6 +58,7 @@
 - [ForensicID](https://t.me/ForensicaID) // diskusi tentang Forensic
 - [ReversingID](https://t.me/ReversingID) // diskusi tentang Reverse Engineering
 - [Orang Siber Indonesia](https://t.me/orangsiber) // diskusi IT
+- [theninjaway1337](https://t.me/theninjaway1337) // berbagi sumber belajar pentesting/hacking
 
 ## Channel Youtube Menarik
 
@@ -84,6 +78,16 @@
 - [Doddy Ferdiansyah](https://www.youtube.com/c/DoddyFerdiansyah) //etchical hacker
 - [Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka) //dosen IT programing (e.g. python)
 - [Web Programing UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS) //dosen IT web programing
+
+## Awesome Github Repos
+- [tomnomnom/hacks](https://github.com/tomnomnom/hacks) // A collection of hacks and one-off scripts
+- [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) // Cyber security career path
+- [0xSojalSec/read-dark-web](https://github.com/0xSojalSec/read-dark-web) // dark web articel
+- [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) // A curated list of awesome OSCP resources
+- [tanc7/hacking-books](https://github.com/tanc7/hacking-books) // a collection of pdfs related to hacking
+- [bcoles/kernel-exploits](https://github.com/bcoles/kernel-exploits) // kernel exploit list
+- [JoyGhoshs/findbb/](https://github.com/JoyGhoshs/findbb/) // Check if domain has bug bounty program or not
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) //collection of multiple types of lists used during security assessments
 
 ## Deep
 
