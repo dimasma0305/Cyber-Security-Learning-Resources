@@ -1,5 +1,7 @@
 # Top 5 Capture The Flag untuk Memulai Ethical Hacking.
 
+Author: [Dito Akbar](https://github.com/Urghyrex) Editor: [Dimas Maulana](https://github.com/dimasma0305)
+
 Memulai dengan Ethical Hacking bisa jadi rumit, terutama jika kalian tidak memahami legalitas dan etika. kita akan membahas beberapa CTF gamified paling populer yang sangat berguna untuk mempelajari Hacking mulai dari dasar-dasar menavigasi Linux hingga forensik dan pembalikan Jaringan tingkat lanjut.
 
 ## [OverTheWire](https://overthewire.org/)
@@ -36,4 +38,3 @@ Dari tantangan bergaya Jeopardy (web, kripto, pembalikan, forensik, dll.) hingga
 
 
 
-Author: [Dito Akbar](https://github.com/Urghyrex) Editor: [Dimas Maulana](https://github.com/dimasma0305)
