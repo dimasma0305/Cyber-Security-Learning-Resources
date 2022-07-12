@@ -1,4 +1,4 @@
-Channels: [theninjaway1337](https://t.me/theninjaway1337)
+Original: [theninjaway1337](https://t.me/theninjaway1337)
 # General/Basic Exploitation 
 
 
