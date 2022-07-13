@@ -34,6 +34,7 @@
 
 #### Writeup Related
 - [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
+- [alexbieber/Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) // bug bounty writeup list
 
 
 ## Group link
@@ -51,6 +52,7 @@
 - [ReversingID](https://t.me/ReversingID) // diskusi tentang Reverse Engineering
 - [Orang Siber Indonesia](https://t.me/orangsiber) // diskusi IT
 - [theninjaway1337](https://t.me/theninjaway1337) // berbagi sumber belajar pentesting/hacking
+- [hacktheboxindo](https://t.me/hacktheboxindo) // komunitas HackTheBox Indonesia
 
 ## Channel Youtube Menarik
 
@@ -73,6 +75,7 @@
 
 ## Awesome Github Repos
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) // A collection of hacks and one-off scripts
+- [sbilly/awesome-security](https://github.com/sbilly/awesome-security) // A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) // Cyber security career path
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) // A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) // A curated list of awesome OSCP resources
