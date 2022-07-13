@@ -1,16 +1,40 @@
 # Link Bermanfaat
 
-## CTF Related
+## Learning Source
 
-### CTF Platform
+### Material
+- [OWASP](https://hackxpert.com/API-testing.php) // OWASP top 10 api training page
+- [PYTHON FOR HACKERS PT.1](https://drive.google.com/file/d/18zMHrfyiVFIL7KGHI3CTrTi3S5LorEi0/view) // Python for hacking
+- [reconshell.com](https://reconshell.com/) // Hacking blog and tutorial
+- [begin.re](https://www.begin.re/) // Reverse Engineer For Beginer
+- [YT Assembly Course](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) // Assembly Youtube Course 
+- [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
+
+### Best Legal Vulnerable Web Application for Learning Hacking.
+#### Offline
+- [bWAPP](http://www.itsecgames.com/)
+- [DVWA](https://dvwa.co.uk/)
+- [OWASP WebGoat](https://owasp.org/www-project-webgoat/)
+- [cyclone transfers](https://github.com/thedeadrobots/bwa_cyclone_transfers)
+- [Owasp Bricks](https://sechow.com/bricks/)
+- [DamnVulnerableNug](https://github.com/HakCat-Tech/DamnVulnerableNug)
+
+#### Online
+- [OverTheWire](https://overthewire.org/)
+- [PortSwigger]( https://portswigger.net/)
+- [TryHackMe](https://tryhackme.com/)
+- [HackTheBox](https://hackthebox.com/)
+
+#### CTF Platform
 - [PicoCTF](https://picoctf.org/) 
 - [CTFLearn](https://ctflearn.com/) 
 - [CTF.HackTheBox](https://ctf.hackthebox.com/)
 - [Google CTF](https://capturetheflag.withgoogle.com/)
 - [CTFR](https://rasyidmf.com/)
 
-### Writeup Related
+#### Writeup Related
 - [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
+
 
 ## Group link
 
@@ -50,29 +74,13 @@
 ## Awesome Github Repos
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) // A collection of hacks and one-off scripts
 - [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) // Cyber security career path
-- [0xSojalSec/read-dark-web](https://github.com/0xSojalSec/read-dark-web) // dark web articel
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) // A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) // A curated list of awesome OSCP resources
 - [tanc7/hacking-books](https://github.com/tanc7/hacking-books) // a collection of pdfs related to hacking
 - [bcoles/kernel-exploits](https://github.com/bcoles/kernel-exploits) // kernel exploit list
-- [JoyGhoshs/findbb/](https://github.com/JoyGhoshs/findbb/) // Check if domain has bug bounty program or not
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) //collection of multiple types of lists used during security assessments
-
-## Learning Source
-
-### Material
-- [OWASP](https://hackxpert.com/API-testing.php) // OWASP top 10 api training page
-- [PYTHON FOR HACKERS PT.1](https://drive.google.com/file/d/18zMHrfyiVFIL7KGHI3CTrTi3S5LorEi0/view) // Python for hacking
-- [reconshell.com](https://reconshell.com/) // Hacking blog and tutorial
-- [begin.re](https://www.begin.re/) // Reverse Engineer For Beginer
-- [YT Assembly Course](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) // Assembly Youtube Course 
-- [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
-
-### Best Legal Vulnerable Offline Web Application for Learning Hacking.
-- [bWAPP](http://www.itsecgames.com/)
-- [DVWA](https://dvwa.co.uk/)
-- [OWASP WebGoat](https://owasp.org/www-project-webgoat/)
-- [cyclone transfers](https://github.com/thedeadrobots/bwa_cyclone_transfers)
-- [Owasp Bricks](https://sechow.com/bricks/)
+- [JoyGhoshs/findbb/](https://github.com/JoyGhoshs/findbb/) // Check if domain has bug bounty program or not
+- [0xSojalSec/read-dark-web](https://github.com/0xSojalSec/read-dark-web) // dark web articel
 
 ## Tools
 
