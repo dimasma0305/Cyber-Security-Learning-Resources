@@ -5,4 +5,4 @@
 - [Indonesia Cyber Security Resources COPY](Resource_List/Indonesia_Cyber_Security_Resources_COPY.md)
 - [old reddit com Hacking Index COPY](Resource_List/old_reddit_com_Hacking_Index_COPY.md)
 - [Top 5 Capture The Flag untuk Memulai Ethical Hacking](Resource_List/Top_5_Capture_The_Flag_untuk_Memulai_Ethical_Hacking.md)
-- [theninjaway1337_Learning Source COPY](Resource_List/theninjaway1337_Learning_Source(COPY))
+- [theninjaway1337 Learning Source COPY](Resource_List/theninjaway1337_Learning_Source(COPY))
