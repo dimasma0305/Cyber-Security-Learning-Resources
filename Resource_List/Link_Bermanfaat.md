@@ -68,10 +68,12 @@
 
 ### Bahasa Indonesia
 - [Onno Center](https://www.youtube.com/c/OnnoCenter) //dosen IT network dan cyber security
-- [savebeat](https://www.youtube.com/c/savabeat) //etchical hacker
-- [Doddy Ferdiansyah](https://www.youtube.com/c/DoddyFerdiansyah) //etchical hacker
+- [savebeat](https://www.youtube.com/c/savabeat) //etchical hacker / red team
+- [Semi Yulianto] //Blue team / defensive security
+- [lowanwsec](https://www.youtube.com/channel/UC1A3LU3mEbgJ4P6IEp1BVhg) // cyber security enthusiast
 - [Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka) //dosen IT programing (e.g. python)
 - [Web Programing UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS) //dosen IT web programing
+- [Doddy Ferdiansyah](https://www.youtube.com/c/DoddyFerdiansyah) //etchical hacker
 
 ## Awesome Github Repos
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) // A collection of hacks and one-off scripts
