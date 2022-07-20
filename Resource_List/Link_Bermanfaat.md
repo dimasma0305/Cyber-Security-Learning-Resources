@@ -3,7 +3,7 @@
 ## Learning Source
 
 ### Material
-- [OWASP](https://hackxpert.com/API-testing.php) // OWASP top 10 api training page
+- [learn.snyk](https://learn.snyk.io/lessons/) // Learn teaches developers how to stay secure
 - [PYTHON FOR HACKERS PT.1](https://drive.google.com/file/d/18zMHrfyiVFIL7KGHI3CTrTi3S5LorEi0/view) // Python for hacking
 - [reconshell.com](https://reconshell.com/) // Hacking blog and tutorial
 - [begin.re](https://www.begin.re/) // Reverse Engineer For Beginer
@@ -85,6 +85,7 @@
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) // A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) // Cyber security career path
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) // A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet) // Web CTF CheatSheet
 - [0x4D31/awesome-oscp](https://github.com/0x4D31/awesome-oscp) // A curated list of awesome OSCP resources
 - [tanc7/hacking-books](https://github.com/tanc7/hacking-books) // a collection of pdfs related to hacking
 - [bcoles/kernel-exploits](https://github.com/bcoles/kernel-exploits) // kernel exploit list
@@ -104,6 +105,7 @@
 - [dnsdumpster](https://dnsdumpster.com/) // dns recoon
 - [dcode.fr](https://www.dcode.fr/cipher-identifier) // chiper identifier
 - [revshells.com](https://www.revshells.com/) // reverse shell generator
+- [shell-storm/shellcode](https://shell-storm.org/shellcode/) // shellcode collection for pwn
 
 ### Search tools
 - [hacktricks.xyz](https://book.hacktricks.xyz/welcome/readme) // hacking trick / searching common exploit
