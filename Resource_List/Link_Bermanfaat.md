@@ -9,6 +9,7 @@
 - [begin.re](https://www.begin.re/) // Reverse Engineer For Beginer
 - [YT Assembly Course](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) // Assembly Youtube Course 
 - [z3py tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) // Tutorial how to use Z3py
+- [security.googleblog](https://security.googleblog.com/) // google blog about security
 
 ### Best Legal Vulnerable Web Application for Learning Hacking.
 #### Offline
