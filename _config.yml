@@ -1,0 +1,9 @@
+remote_theme: pages-themes/midnight
+plugins:
+  - jekyll-relative-links
+  - jekyll-remote-theme
+relative_links:
+  enabled: true
+  collections: true
+
+permalink: pretty
