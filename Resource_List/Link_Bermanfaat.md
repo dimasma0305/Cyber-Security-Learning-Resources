@@ -14,7 +14,7 @@
 - [w3schools.in/cyber-security](https://www.w3schools.in/cyber-security/tutorials/) // Cyber security tutorial
 - [w3schools.in/ethical-hacking](https://www.w3schools.in/ethical-hacking/tutorials/) // Ethical hacking tutorial
 - [cryptohack](https://cryptohack.org/) // A fun, free platform for learning modern cryptography 
-- https://prompt.ml // XSS challenge
+- [prompt.ml](https://prompt.ml) // XSS challenge
 - [taggartinstitute](https://taggartinstitute.org/) // Free course cyber security
 
 ### Best Legal Vulnerable Web Application for Learning Hacking.
