@@ -28,8 +28,8 @@
 - [VulnHub](https://www.vulnhub.com/)
 
 #### Online
-- [OverTheWire](https://overthewire.org/)
-- [PortSwigger]( https://portswigger.net/)
+- [OverTheWire](https://overthewire.org/) // CTF like platform to learn hacking
+- [PortSwigger]( https://portswigger.net/) // 
 - [TryHackMe](https://tryhackme.com/)
 - [HackTheBox](https://hackthebox.com/)
 
@@ -44,6 +44,7 @@
 #### Writeup Related
 - [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
 - [alexbieber/Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) // bug bounty writeup list
+- [TCP1P CTF Writeup](https://github.com/TCP1P/TCP1P_CTF_writeup) // writeup dari komunitas TCP1P bahasa Indonesia
 
 
 ## Group link
@@ -62,6 +63,7 @@
 - [Orang Siber Indonesia](https://t.me/orangsiber) // diskusi IT
 - [theninjaway1337](https://t.me/theninjaway1337) // berbagi sumber belajar pentesting/hacking
 - [hacktheboxindo](https://t.me/hacktheboxindo) // komunitas HackTheBox Indonesia
+- [TCP1P](https://discord.gg/tQBWW2aDDk) // komunitas CTF / bermain ctf bersama
 
 ## Channel Youtube Menarik
 
