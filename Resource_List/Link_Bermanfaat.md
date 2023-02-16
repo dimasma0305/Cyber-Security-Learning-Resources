@@ -29,9 +29,9 @@
 
 #### Online
 - [OverTheWire](https://overthewire.org/) // CTF like platform to learn hacking
-- [PortSwigger]( https://portswigger.net/) // 
-- [TryHackMe](https://tryhackme.com/)
-- [HackTheBox](https://hackthebox.com/)
+- [PortSwigger]( https://portswigger.net/) // Web Security
+- [TryHackMe](https://tryhackme.com/) // Vulnerable VM box
+- [HackTheBox](https://hackthebox.com/) // Vulnerable VM box
 
 #### CTF Platform
 - [PicoCTF](https://picoctf.org/) 
@@ -45,7 +45,6 @@
 - [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
 - [alexbieber/Bug_Bounty_writeups](https://github.com/alexbieber/Bug_Bounty_writeups) // bug bounty writeup list
 - [TCP1P CTF Writeup](https://github.com/TCP1P/TCP1P_CTF_writeup) // writeup dari komunitas TCP1P bahasa Indonesia
-
 
 ## Group link
 

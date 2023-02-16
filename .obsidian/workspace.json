@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e7fa67b6c1e14a40",
+        "id": "f1e038000c4f4054",
         "type": "tabs",
         "children": [
           {
-            "id": "00d51af544470c91",
+            "id": "e084b8c2c69572b3",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "1b77f8ddcbe6f622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource_List/Link_Bermanfaat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource_List/Link_Bermanfaat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource_List/Link_Bermanfaat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resource_List/Link_Bermanfaat.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,13 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b77f8ddcbe6f622",
+  "active": "e084b8c2c69572b3",
   "lastOpenFiles": [
-    "Resource_List/Indonesia_Cyber_Security_Resources_COPY.md",
+    "index.md",
     "Resource_List/Link_Bermanfaat.md",
+    "Resource_List/Indonesia_Cyber_Security_Resources_COPY.md",
     "Resource_List/Top_5_Capture_The_Flag_untuk_Memulai_Ethical_Hacking.md",
     "Resource_List/theninjaway1337_Learning_Source(COPY).md",
-    "index.md",
     "Resource_List/old_reddit_com_Hacking_Index_COPY.md",
     "Resource_List/list_search_engine.png",
     "paper/Untitled.md",
