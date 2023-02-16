@@ -103,6 +103,7 @@
 - [JoyGhoshs/findbb/](https://github.com/JoyGhoshs/findbb/) // Check if domain has bug bounty program or not
 - [0xSojalSec/read-dark-web](https://github.com/0xSojalSec/read-dark-web) // dark web articel
 - [Nuclei](https://github.com/projectdiscovery/nuclei) // vulnerability scanning based on templates
+- [Yara](https://github.com/VirusTotal/yara) // malware patern matching
 
 ## Tools
 

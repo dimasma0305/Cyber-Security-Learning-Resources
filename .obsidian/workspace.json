@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "231b079dbeef2cc3",
+        "id": "e7fa67b6c1e14a40",
         "type": "tabs",
         "children": [
           {
-            "id": "cc7430355f99a9f1",
+            "id": "00d51af544470c91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resource_List/Link_Bermanfaat.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource_List/Link_Bermanfaat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource_List/Link_Bermanfaat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resource_List/Link_Bermanfaat.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc7430355f99a9f1",
+  "active": "00d51af544470c91",
   "lastOpenFiles": [
+    "Resource_List/Link_Bermanfaat.md",
     "Resource_List/Top_5_Capture_The_Flag_untuk_Memulai_Ethical_Hacking.md",
     "Resource_List/theninjaway1337_Learning_Source(COPY).md",
     "Resource_List/old_reddit_com_Hacking_Index_COPY.md",
