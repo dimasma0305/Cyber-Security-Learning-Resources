@@ -105,6 +105,7 @@
 - [0xSojalSec/read-dark-web](https://github.com/0xSojalSec/read-dark-web) // dark web articel
 - [Nuclei](https://github.com/projectdiscovery/nuclei) // vulnerability scanning based on templates
 - [Yara](https://github.com/VirusTotal/yara) // malware patern matching
+- [libc-database](https://github.com/niklasb/libc-database) // libc database searcing for binary exploitation
 
 ## Tools
 
