@@ -125,6 +125,7 @@
 - [libc.nullbyte.cat](https://libc.nullbyte.cat/) // libc database for pwn
 - [aperisolve](https://www.aperisolve.com/) // performs layer analysis on image
 - [xsshunter.trufflesecurity](https://xsshunter.trufflesecurity.com/) // new xss hunter
+- [graphql-voyager](https://ivangoncharov.github.io/graphql-voyager/) // graphql schema mapping
 
 ### Search tools
 - [hacktricks.xyz](https://book.hacktricks.xyz/welcome/readme) // hacking trick / searching common exploit
