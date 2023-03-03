@@ -106,6 +106,7 @@
 - [Nuclei](https://github.com/projectdiscovery/nuclei) // vulnerability scanning based on templates
 - [Yara](https://github.com/VirusTotal/yara) // malware patern matching
 - [libc-database](https://github.com/niklasb/libc-database) // libc database searcing for binary exploitation
+- [PCRT](https://github.com/sherlly/PCRT) // png fixer
 
 ## Tools
 
