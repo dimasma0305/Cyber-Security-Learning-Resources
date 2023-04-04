@@ -137,6 +137,7 @@
 - [searchcode.com](https://searchcode.com) // Search 75 billion lines of code from 40 million projects
 - [grep.app](https://grep.app/) // git repos search
 - [cs.github](https://cs.github.com/) // github repos search
+- [offsec.tools](https://offsec.tools/) // security tools list
 
 ## Other interesting link
 - [beta.character.ai](https://beta.character.ai/) // character ai
