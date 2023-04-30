@@ -127,6 +127,7 @@
 - [aperisolve](https://www.aperisolve.com/) // performs layer analysis on image
 - [xsshunter.trufflesecurity](https://xsshunter.trufflesecurity.com/) // new xss hunter
 - [graphql-voyager](https://ivangoncharov.github.io/graphql-voyager/) // graphql schema mapping
+- [hybrid-analysis](https://www.hybrid-analysis.com/) // malware analysis tool
 
 ### Search tools
 - [hacktricks.xyz](https://book.hacktricks.xyz/welcome/readme) // hacking trick / searching common exploit
