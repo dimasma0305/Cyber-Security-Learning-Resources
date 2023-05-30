@@ -40,6 +40,8 @@
 - [Google CTF](https://capturetheflag.withgoogle.com/)
 - [CTFR](https://rasyidmf.com/)
 - [pwn101](https://tryhackme.com/room/pwn101) // pwn challenge for beginer
+- [pwnable.kr](https://pwnable.kr/) // pwn challenge platform
+- [pwnable.tw](https://pwnable.tw/) //pwn challenge platform
 
 #### Writeup Related
 - [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
