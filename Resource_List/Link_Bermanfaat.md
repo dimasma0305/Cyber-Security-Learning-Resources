@@ -17,6 +17,11 @@
 - [prompt.ml](https://prompt.ml) // XSS challenge
 - [taggartinstitute](https://taggartinstitute.org/) // Free course cyber security
 
+### Coding Platform
+- [codedex](https://www.codedex.io/)
+- [codewars](https://www.codewars.com/)
+- [codingame](https://www.codingame.com)
+
 ### Best Legal Vulnerable Web Application for Learning Hacking.
 #### Offline
 - [bWAPP](http://www.itsecgames.com/)
