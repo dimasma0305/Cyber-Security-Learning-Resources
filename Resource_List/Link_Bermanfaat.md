@@ -135,6 +135,8 @@
 - [xsshunter.trufflesecurity](https://xsshunter.trufflesecurity.com/) // new xss hunter
 - [graphql-voyager](https://ivangoncharov.github.io/graphql-voyager/) // graphql schema mapping
 - [hybrid-analysis](https://www.hybrid-analysis.com/) // malware analysis tool
+- [interactsh](https://github.com/projectdiscovery/interactsh) // An OOB interaction gathering server and client library
+- [pingb.in](https://infosecwriteups.com/a-simple-dns-oob-exfil-solution-or-pingb-in-life-hack-45e6aa44fc49) // A Simple DNS OOB exfil solution, or pingb.in (life)hack
 
 ### Search tools
 - [hacktricks.xyz](https://book.hacktricks.xyz/welcome/readme) // hacking trick / searching common exploit
