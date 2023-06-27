@@ -99,6 +99,7 @@
 - [Web Programing UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS) //dosen IT web programing
 
 ## Awesome Github Repos
+- [Ignitetechnologies/Mindmap](https://github.com/Ignitetechnologies/Mindmap) // mindmaps for cyber security technologies, methodologies, courses, and certifications
 - [tomnomnom/hacks](https://github.com/tomnomnom/hacks) // A collection of hacks and one-off scripts
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) // A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [rezaduty/cybersecurity-career-path](https://github.com/rezaduty/cybersecurity-career-path) // Cyber security career path
