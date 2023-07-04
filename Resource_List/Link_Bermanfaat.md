@@ -115,6 +115,7 @@
 - [Yara](https://github.com/VirusTotal/yara) // malware patern matching
 - [libc-database](https://github.com/niklasb/libc-database) // libc database searcing for binary exploitation
 - [PCRT](https://github.com/sherlly/PCRT) // png fixer
+- [dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit) // A front-end JavaScript toolkit for creating DNS rebinding attacks. 
 
 ## Tools
 
@@ -138,6 +139,7 @@
 - [hybrid-analysis](https://www.hybrid-analysis.com/) // malware analysis tool
 - [interactsh](https://github.com/projectdiscovery/interactsh) // An OOB interaction gathering server and client library
 - [pingb.in](https://infosecwriteups.com/a-simple-dns-oob-exfil-solution-or-pingb-in-life-hack-45e6aa44fc49) // A Simple DNS OOB exfil solution, or pingb.in (life)hack
+- [whonow](https://github.com/brannondorsey/whonow) // A "malicious" DNS server for executing DNS Rebinding attacks on the fly
 
 ### Search tools
 - [hacktricks.xyz](https://book.hacktricks.xyz/welcome/readme) // hacking trick / searching common exploit
