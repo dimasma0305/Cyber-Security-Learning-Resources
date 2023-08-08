@@ -16,6 +16,7 @@
 - [cryptohack](https://cryptohack.org/) // A fun, free platform for learning modern cryptography 
 - [prompt.ml](https://prompt.ml) // XSS challenge
 - [taggartinstitute](https://taggartinstitute.org/) // Free course cyber security
+- [linuxjourney](https://linuxjourney.com/) // linux learning resource
 
 ### Coding Platform
 - [codedex](https://www.codedex.io/)
