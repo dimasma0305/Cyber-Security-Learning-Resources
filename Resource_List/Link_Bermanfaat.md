@@ -17,6 +17,7 @@
 - [prompt.ml](https://prompt.ml) // XSS challenge
 - [taggartinstitute](https://taggartinstitute.org/) // Free course cyber security
 - [linuxjourney](https://linuxjourney.com/) // linux learning resource
+- [ethernout](https://ethernaut.openzeppelin.com/) // smartcontract learning resource
 
 ### Coding Platform
 - [codedex](https://www.codedex.io/)
