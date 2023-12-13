@@ -152,6 +152,7 @@
 - [grep.app](https://grep.app/) // git repos search
 - [cs.github](https://cs.github.com/) // github repos search
 - [offsec.tools](https://offsec.tools/) // security tools list
+- [fofa](https://en.fofa.info/) // search engine like shodan
 
 ## Other interesting link
 - [beta.character.ai](https://beta.character.ai/) // character ai
