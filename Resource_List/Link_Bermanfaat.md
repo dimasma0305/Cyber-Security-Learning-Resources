@@ -18,6 +18,7 @@
 - [taggartinstitute](https://taggartinstitute.org/) // Free course cyber security
 - [linuxjourney](https://linuxjourney.com/) // linux learning resource
 - [ethernout](https://ethernaut.openzeppelin.com/) // smartcontract learning resource
+- [paper.seebug](https://paper.seebug.org/) // chinese security blog
 
 ### Coding Platform
 - [codedex](https://www.codedex.io/)
