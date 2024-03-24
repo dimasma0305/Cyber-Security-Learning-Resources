@@ -34,6 +34,10 @@
 - [Owasp Bricks](https://sechow.com/bricks/)
 - [DamnVulnerableNug](https://github.com/HakCat-Tech/DamnVulnerableNug)
 - [VulnHub](https://www.vulnhub.com/)
+- [InsecureShop](https://github.com/hax0rgb/InsecureShop) // android vulnerable app
+- [OversecuredAndroidApp](https://github.com/oversecured/ovaa) // android vulnerable app
+- [InsecureBankV2](https://github.com/dineshshetty/Android-InsecureBankv2) // android vulnerable app
+- [OversecuredAndroidApp Writeup](https://infosecwriteups.com/exploiting-android-vulnerabilities-with-malicious-third-party-apps-featuring-oversecured-apk-adea3241ce49) // oversecureAndroidApp writeup
 
 #### Online
 - [OverTheWire](https://overthewire.org/) // CTF like platform to learn hacking
