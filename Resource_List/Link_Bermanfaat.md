@@ -19,6 +19,7 @@
 - [linuxjourney](https://linuxjourney.com/) // linux learning resource
 - [ethernout](https://ethernaut.openzeppelin.com/) // smartcontract learning resource
 - [paper.seebug](https://paper.seebug.org/) // chinese security blog
+- [Mobule Hacking Lab](https://www.mobilehackinglab.com/) // Mobile Exploitation course
 
 ### Coding Platform
 - [codedex](https://www.codedex.io/)
@@ -123,7 +124,8 @@
 - [Yara](https://github.com/VirusTotal/yara) // malware patern matching
 - [libc-database](https://github.com/niklasb/libc-database) // libc database searcing for binary exploitation
 - [PCRT](https://github.com/sherlly/PCRT) // png fixer
-- [dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit) // A front-end JavaScript toolkit for creating DNS rebinding attacks. 
+- [dns-rebind-toolkit](https://github.com/brannondorsey/dns-rebind-toolkit) // A front-end JavaScript toolkit for creating DNS rebinding attacks.
+- [InsecureShop](https://github.com/hax0rgb/InsecureShop) // Insecure Mobile Application for exercise
 
 ## Tools
 
