@@ -56,6 +56,8 @@
 - [pwnable.kr](https://pwnable.kr/) // pwn challenge platform
 - [pwnable.tw](https://pwnable.tw/) //pwn challenge platform
 - [cyberdefenders](https://cyberdefenders.org/) // blue team/forensic ctf platform
+- [casinoheist](https://casinoheist.xyz/) // blockchain ctf 
+- [ethernaut](https://ethernaut.openzeppelin.com/) // blockchain ctf  
 
 #### Writeup Related
 - [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
