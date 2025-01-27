@@ -20,6 +20,7 @@
 - [ethernout](https://ethernaut.openzeppelin.com/) // smartcontract learning resource
 - [paper.seebug](https://paper.seebug.org/) // chinese security blog
 - [Mobule Hacking Lab](https://www.mobilehackinglab.com/) // Mobile Exploitation course
+- [book.jorianwoltjer](https://book.jorianwoltjer.com/) // CTF trick Book
 
 ### Coding Platform
 - [codedex](https://www.codedex.io/)
