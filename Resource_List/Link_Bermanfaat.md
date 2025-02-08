@@ -58,7 +58,8 @@
 - [pwnable.tw](https://pwnable.tw/) //pwn challenge platform
 - [cyberdefenders](https://cyberdefenders.org/) // blue team/forensic ctf platform
 - [casinoheist](https://casinoheist.xyz/) // blockchain ctf 
-- [ethernaut](https://ethernaut.openzeppelin.com/) // blockchain ctf  
+- [ethernaut](https://ethernaut.openzeppelin.com/) // blockchain ctf
+- [vulnerable.code](https://vulnerable.codes/) // Learn to research vulnerabilities by reviewing the source code of real-world cases.
 
 #### Writeup Related
 - [0xdf writeup](https://0xdf.gitlab.io/) // 0xdf comunity writeup
